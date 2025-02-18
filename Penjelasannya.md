@@ -4,28 +4,40 @@ Perbedaan antara Windows dan Linux bisa dilihat dari berbagai aspek seperti tamp
 Windows:
 Windows terkenal dengan antarmuka grafis yang ramah pengguna (GUI). Desainnya lebih berfokus pada kemudahan penggunaan dan aksesibilitas, dengan menu Start, taskbar, dan ikon-ikon yang intuitif.
 Cocok untuk pengguna yang tidak terlalu teknis, karena semua fungsi dapat dijalankan melalui interface grafis.
+![Screenshot Tampilan Windows](https://github.com/user-attachments/assets/ac0944fe-95c7-41d8-8f61-700a6b03e28a)
+
 
 Linux:
 Linux juga memiliki antarmuka grafis (GUI), tetapi lebih beragam karena ada banyak distribusi (distro) yang menawarkan berbagai jenis desktop environment seperti GNOME, KDE, Xfce, dll.
 Pengguna Linux lebih fleksibel dalam memilih dan menyesuaikan tampilan dan fungsionalitas sesuai dengan kebutuhan, tetapi lebih teknikal dibandingkan Windows.
+![Screenshot Tampilan Linux (1)](https://github.com/user-attachments/assets/84648ec4-542f-4a8c-9055-6cc46cf6603d)
+
 
 2. Penggunaan Memori (RAM)
 Windows:
 Windows cenderung menggunakan lebih banyak memori dibandingkan Linux, terutama pada versi terbaru dengan banyak fitur.
 Sistem operasi ini lebih berat, karena memiliki banyak proses latar belakang (background processes) yang berjalan untuk mendukung berbagai aplikasi dan layanan.
+![Screenshot Memory Windows](https://github.com/user-attachments/assets/90220627-cef3-4f88-be06-85c86266257f)
+
 
 Linux:
 Linux lebih efisien dalam penggunaan memori, terutama jika menggunakan distribusi ringan atau minimalis. Linux dapat berjalan dengan baik pada perangkat dengan spesifikasi rendah.
 Penggunaan memori bisa sangat diperkecil jika sistem dioptimalkan untuk tujuan tertentu (misalnya untuk server atau perangkat IoT).
+![Screenshot Memory Linux](https://github.com/user-attachments/assets/7d38575e-110d-44bb-ac73-66a837fe51ea)
+
 
 3. Pemrosesan CPU
 Windows:
 Windows membutuhkan lebih banyak daya CPU karena memiliki berbagai proses dan layanan tambahan yang berjalan di latar belakang.
 Pemrosesan di Windows bisa sedikit lebih lambat pada sistem dengan spesifikasi rendah atau jika banyak aplikasi berjalan bersamaan.
+![Screenshot CPU Windows](https://github.com/user-attachments/assets/72ca4cf1-f790-444a-91fc-96a987f115ed)
+
 
 Linux:
 Linux cenderung lebih ringan dalam hal pemrosesan CPU, karena dapat dikustomisasi untuk menjalankan hanya layanan yang diperlukan.
 Oleh karena itu, Linux sering dipilih untuk penggunaan pada server atau perangkat dengan sumber daya terbatas.
+![Screenshot CPU Linux (1)](https://github.com/user-attachments/assets/25bc88bf-526f-4dad-9f17-4ba87dbc8e2e)
+
 
 4. Kegunaan (Use Case)
 Windows:
